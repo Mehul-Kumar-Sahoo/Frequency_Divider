@@ -1,5 +1,7 @@
 # Frequency Divider
 
+Skills: Verilog HDL, Finite State Machines
+
 I am Mehul Kumar Sahoo persuing Electronics Engineering from IIT(BHU),Varanasi.
 
 I have made a frequency divider to divide a clock frequency by 10,100,1000 or 10000.
